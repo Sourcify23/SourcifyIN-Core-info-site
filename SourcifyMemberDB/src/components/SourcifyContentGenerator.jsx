@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import { useState, useRef } from 'react';
 import { Sparkles, Upload, X, Key, Loader2, Copy, Check } from 'lucide-react';
 
 const SourcifyContentGenerator = () => {
